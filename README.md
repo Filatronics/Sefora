@@ -1,1 +1,3 @@
 # Sefora
+[Google]
+*ceva1
